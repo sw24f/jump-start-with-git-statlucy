@@ -55,6 +55,6 @@ You can connect with developers around the world to ask and answer questions, le
 
 ## Personal Notes
 
-I am very glad to have completed this assignment.:D
+I am very glad to have completed this assignment. :D
 
 
