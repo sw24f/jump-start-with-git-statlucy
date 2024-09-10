@@ -52,3 +52,9 @@ GitHub offers in-person classes taught by our highly-experienced educators. Cont
 ## Community
 
 You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see ["GitHub Community Support"](https://github.community/).
+
+## Personal Notes
+
+Sometimes this process is frustrating, but it's great when it works.
+
+
