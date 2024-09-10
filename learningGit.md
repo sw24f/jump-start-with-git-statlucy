@@ -55,6 +55,6 @@ You can connect with developers around the world to ask and answer questions, le
 
 ## Personal Notes
 
-Sometimes this process is frustrating, but it's great when it works. I can compare editing directly in Github versus through Git.
+Sometimes this process is frustrating, but it's great when it works. I can compare editing directly in Github versus through Git. I can try branching in Git.
 
 
